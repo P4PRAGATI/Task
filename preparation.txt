@@ -1,5 +1,6 @@
 Hi
 About Yourself
+Resume
 SDLC/STLC/Bug lifecycle
 Selenium Interview questions
 SQL
