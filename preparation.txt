@@ -4,8 +4,8 @@ Resume
 SDLC/STLC/Bug lifecycle
 Selenium Interview questions
 SQL
-Programming Languages (C,Java, Python, MATLAB< Android)
+Programming Languages (C,Java, Python, MATLAB, Android)
 OOPS Concepts
-HR Questions
+HR Questions (Why should I hire you? , Why this company?, Expected CTC)
 
 Thank you
